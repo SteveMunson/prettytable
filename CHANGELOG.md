@@ -1,5 +1,3 @@
-Test
-
 # PrettyTable 1.0.1 and newer
 
 See GitHub Releases:
